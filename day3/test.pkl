@@ -1,0 +1,14 @@
+(dp0
+S'job'
+p1
+S'IT'
+p2
+sS'age'
+p3
+S'18'
+p4
+sS'name'
+p5
+S'billy'
+p6
+s.
